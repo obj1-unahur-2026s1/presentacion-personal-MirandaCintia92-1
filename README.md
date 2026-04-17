@@ -1,4 +1,4 @@
-![Logo UNAHUR](./UNAHUR.png)
+![foto de lunita](./LUNI.png)
 
 # Programación con objetos I
 ## Presentación Personal

@@ -4,8 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Cintia Gabriela Miranda 
+- Vivo en Morón, trabajo en palomar y estudio en la hermosa Universidad Nacional De Hurlingham.
 
 
 ### Otra Información
